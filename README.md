@@ -1,7 +1,7 @@
 ## Screenshots
 
 [<img src="img/example_main.jpg" width=160>](img/example_main.jpg)
-[<img src="img/example_tree.jpg" width=160>](img/tree.jpg)
+[<img src="img/example_tree.jpg" width=160>](img/example_tree.jpg)
 ## Note
 
 This is a very old project of mine, but I still decided to make it public. It may contain unvalid HTML and Bugs. No updates are planned in the near future.
